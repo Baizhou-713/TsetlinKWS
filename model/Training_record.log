@@ -1,0 +1,444 @@
+2025-08-16 07:11:52,347 - __main__ - INFO - Running <class 'tmu.models.classification.vanilla_classifier.TMClassifier'> for 400 epochs in Kernel 7,64 and s8.0, T300, Cl120
+2025-08-16 07:16:37,418 - __main__ - INFO - Epoch: 1, Train Accuracy: 70.02, Valid Accuracy: 74.43, Test Accuracy: 74.00, Training Time: 258.37s, Valid Time: 12.80s, Testing Time: 13.90s
+2025-08-16 07:21:23,816 - __main__ - INFO - Epoch: 2, Train Accuracy: 73.32, Valid Accuracy: 77.24, Test Accuracy: 76.94, Training Time: 258.67s, Valid Time: 13.31s, Testing Time: 14.42s
+2025-08-16 07:26:14,190 - __main__ - INFO - Epoch: 3, Train Accuracy: 75.38, Valid Accuracy: 78.80, Test Accuracy: 78.73, Training Time: 262.39s, Valid Time: 13.40s, Testing Time: 14.58s
+2025-08-16 07:31:06,798 - __main__ - INFO - Epoch: 4, Train Accuracy: 76.62, Valid Accuracy: 80.49, Test Accuracy: 80.31, Training Time: 264.44s, Valid Time: 13.49s, Testing Time: 14.68s
+2025-08-16 07:35:59,813 - __main__ - INFO - Epoch: 5, Train Accuracy: 77.50, Valid Accuracy: 81.60, Test Accuracy: 81.27, Training Time: 264.85s, Valid Time: 13.49s, Testing Time: 14.67s
+2025-08-16 07:40:52,797 - __main__ - INFO - Epoch: 6, Train Accuracy: 78.12, Valid Accuracy: 81.85, Test Accuracy: 80.64, Training Time: 264.81s, Valid Time: 13.50s, Testing Time: 14.67s
+2025-08-16 07:45:46,382 - __main__ - INFO - Epoch: 7, Train Accuracy: 78.14, Valid Accuracy: 80.71, Test Accuracy: 81.03, Training Time: 265.37s, Valid Time: 13.52s, Testing Time: 14.69s
+2025-08-16 07:50:39,755 - __main__ - INFO - Epoch: 8, Train Accuracy: 78.84, Valid Accuracy: 81.83, Test Accuracy: 82.05, Training Time: 265.15s, Valid Time: 13.52s, Testing Time: 14.70s
+2025-08-16 07:55:32,629 - __main__ - INFO - Epoch: 9, Train Accuracy: 78.84, Valid Accuracy: 82.00, Test Accuracy: 82.46, Training Time: 264.72s, Valid Time: 13.49s, Testing Time: 14.66s
+2025-08-16 08:00:25,520 - __main__ - INFO - Epoch: 10, Train Accuracy: 79.43, Valid Accuracy: 82.20, Test Accuracy: 82.94, Training Time: 264.72s, Valid Time: 13.50s, Testing Time: 14.66s
+2025-08-16 08:05:18,625 - __main__ - INFO - Epoch: 11, Train Accuracy: 79.78, Valid Accuracy: 82.54, Test Accuracy: 83.39, Training Time: 264.91s, Valid Time: 13.50s, Testing Time: 14.69s
+2025-08-16 08:10:11,602 - __main__ - INFO - Epoch: 12, Train Accuracy: 80.00, Valid Accuracy: 82.58, Test Accuracy: 83.57, Training Time: 264.76s, Valid Time: 13.49s, Testing Time: 14.72s
+2025-08-16 08:15:04,065 - __main__ - INFO - Epoch: 13, Train Accuracy: 80.22, Valid Accuracy: 82.78, Test Accuracy: 82.96, Training Time: 264.33s, Valid Time: 13.47s, Testing Time: 14.66s
+2025-08-16 08:19:56,273 - __main__ - INFO - Epoch: 14, Train Accuracy: 80.15, Valid Accuracy: 82.03, Test Accuracy: 82.92, Training Time: 264.09s, Valid Time: 13.47s, Testing Time: 14.64s
+2025-08-16 08:24:48,504 - __main__ - INFO - Epoch: 15, Train Accuracy: 80.62, Valid Accuracy: 83.03, Test Accuracy: 83.55, Training Time: 264.10s, Valid Time: 13.47s, Testing Time: 14.65s
+2025-08-16 08:29:40,620 - __main__ - INFO - Epoch: 16, Train Accuracy: 81.02, Valid Accuracy: 83.16, Test Accuracy: 83.82, Training Time: 264.01s, Valid Time: 13.46s, Testing Time: 14.63s
+2025-08-16 08:34:32,958 - __main__ - INFO - Epoch: 17, Train Accuracy: 81.05, Valid Accuracy: 83.27, Test Accuracy: 83.63, Training Time: 264.21s, Valid Time: 13.47s, Testing Time: 14.65s
+2025-08-16 08:39:25,173 - __main__ - INFO - Epoch: 18, Train Accuracy: 80.99, Valid Accuracy: 83.47, Test Accuracy: 84.11, Training Time: 264.09s, Valid Time: 13.47s, Testing Time: 14.65s
+2025-08-16 08:44:17,322 - __main__ - INFO - Epoch: 19, Train Accuracy: 81.01, Valid Accuracy: 83.27, Test Accuracy: 83.41, Training Time: 264.04s, Valid Time: 13.46s, Testing Time: 14.65s
+2025-08-16 08:49:09,587 - __main__ - INFO - Epoch: 20, Train Accuracy: 80.89, Valid Accuracy: 83.23, Test Accuracy: 83.31, Training Time: 264.15s, Valid Time: 13.47s, Testing Time: 14.65s
+2025-08-16 08:54:01,465 - __main__ - INFO - Epoch: 21, Train Accuracy: 80.67, Valid Accuracy: 82.83, Test Accuracy: 82.59, Training Time: 263.74s, Valid Time: 13.50s, Testing Time: 14.63s
+2025-08-16 08:58:53,104 - __main__ - INFO - Epoch: 22, Train Accuracy: 81.22, Valid Accuracy: 82.96, Test Accuracy: 84.00, Training Time: 263.55s, Valid Time: 13.46s, Testing Time: 14.63s
+2025-08-16 09:04:40,275 - __main__ - INFO - Epoch: 23, Train Accuracy: 81.30, Valid Accuracy: 82.63, Test Accuracy: 84.66, Training Time: 263.41s, Valid Time: 13.44s, Testing Time: 14.62s
+2025-08-16 09:09:31,765 - __main__ - INFO - Epoch: 24, Train Accuracy: 81.87, Valid Accuracy: 83.74, Test Accuracy: 84.93, Training Time: 263.41s, Valid Time: 13.45s, Testing Time: 14.63s
+2025-08-16 09:15:18,772 - __main__ - INFO - Epoch: 25, Train Accuracy: 81.88, Valid Accuracy: 83.90, Test Accuracy: 84.60, Training Time: 263.44s, Valid Time: 13.45s, Testing Time: 14.63s
+2025-08-16 09:21:05,774 - __main__ - INFO - Epoch: 26, Train Accuracy: 81.91, Valid Accuracy: 84.39, Test Accuracy: 84.41, Training Time: 263.40s, Valid Time: 13.45s, Testing Time: 14.63s
+2025-08-16 09:26:52,799 - __main__ - INFO - Epoch: 27, Train Accuracy: 82.09, Valid Accuracy: 84.43, Test Accuracy: 84.52, Training Time: 263.45s, Valid Time: 13.44s, Testing Time: 14.62s
+2025-08-16 09:32:39,880 - __main__ - INFO - Epoch: 28, Train Accuracy: 82.36, Valid Accuracy: 84.88, Test Accuracy: 85.26, Training Time: 263.35s, Valid Time: 13.44s, Testing Time: 14.62s
+2025-08-16 09:38:26,798 - __main__ - INFO - Epoch: 29, Train Accuracy: 82.31, Valid Accuracy: 84.52, Test Accuracy: 85.26, Training Time: 263.29s, Valid Time: 13.44s, Testing Time: 14.62s
+2025-08-16 09:43:17,764 - __main__ - INFO - Epoch: 30, Train Accuracy: 82.11, Valid Accuracy: 83.88, Test Accuracy: 84.54, Training Time: 262.93s, Valid Time: 13.43s, Testing Time: 14.60s
+2025-08-16 09:48:09,034 - __main__ - INFO - Epoch: 31, Train Accuracy: 81.77, Valid Accuracy: 83.59, Test Accuracy: 84.29, Training Time: 263.22s, Valid Time: 13.44s, Testing Time: 14.61s
+2025-08-16 09:53:00,093 - __main__ - INFO - Epoch: 32, Train Accuracy: 82.33, Valid Accuracy: 84.83, Test Accuracy: 85.26, Training Time: 263.04s, Valid Time: 13.42s, Testing Time: 14.60s
+2025-08-16 09:57:50,931 - __main__ - INFO - Epoch: 33, Train Accuracy: 82.64, Valid Accuracy: 84.92, Test Accuracy: 85.75, Training Time: 262.84s, Valid Time: 13.41s, Testing Time: 14.58s
+2025-08-16 10:03:37,356 - __main__ - INFO - Epoch: 34, Train Accuracy: 82.52, Valid Accuracy: 84.39, Test Accuracy: 85.28, Training Time: 262.93s, Valid Time: 13.42s, Testing Time: 14.59s
+2025-08-16 10:08:28,961 - __main__ - INFO - Epoch: 35, Train Accuracy: 82.59, Valid Accuracy: 84.25, Test Accuracy: 84.99, Training Time: 263.57s, Valid Time: 13.43s, Testing Time: 14.61s
+2025-08-16 10:13:19,999 - __main__ - INFO - Epoch: 36, Train Accuracy: 82.54, Valid Accuracy: 84.39, Test Accuracy: 84.83, Training Time: 263.02s, Valid Time: 13.42s, Testing Time: 14.60s
+2025-08-16 10:18:11,290 - __main__ - INFO - Epoch: 37, Train Accuracy: 82.62, Valid Accuracy: 84.50, Test Accuracy: 85.13, Training Time: 263.22s, Valid Time: 13.47s, Testing Time: 14.60s
+2025-08-16 10:23:02,469 - __main__ - INFO - Epoch: 38, Train Accuracy: 82.53, Valid Accuracy: 84.28, Test Accuracy: 85.01, Training Time: 263.14s, Valid Time: 13.43s, Testing Time: 14.60s
+2025-08-16 10:27:53,578 - __main__ - INFO - Epoch: 39, Train Accuracy: 82.91, Valid Accuracy: 84.54, Test Accuracy: 85.40, Training Time: 263.09s, Valid Time: 13.42s, Testing Time: 14.59s
+2025-08-16 10:32:44,872 - __main__ - INFO - Epoch: 40, Train Accuracy: 82.84, Valid Accuracy: 84.61, Test Accuracy: 85.63, Training Time: 263.26s, Valid Time: 13.43s, Testing Time: 14.60s
+2025-08-16 10:37:36,372 - __main__ - INFO - Epoch: 41, Train Accuracy: 82.81, Valid Accuracy: 84.50, Test Accuracy: 85.59, Training Time: 263.45s, Valid Time: 13.44s, Testing Time: 14.61s
+2025-08-16 10:42:27,110 - __main__ - INFO - Epoch: 42, Train Accuracy: 83.05, Valid Accuracy: 84.92, Test Accuracy: 85.54, Training Time: 262.74s, Valid Time: 13.41s, Testing Time: 14.58s
+2025-08-16 10:47:17,833 - __main__ - INFO - Epoch: 43, Train Accuracy: 83.27, Valid Accuracy: 85.68, Test Accuracy: 85.50, Training Time: 262.73s, Valid Time: 13.40s, Testing Time: 14.59s
+2025-08-16 10:53:04,270 - __main__ - INFO - Epoch: 44, Train Accuracy: 83.11, Valid Accuracy: 85.39, Test Accuracy: 85.48, Training Time: 263.03s, Valid Time: 13.42s, Testing Time: 14.59s
+2025-08-16 10:57:55,213 - __main__ - INFO - Epoch: 45, Train Accuracy: 82.83, Valid Accuracy: 85.23, Test Accuracy: 85.26, Training Time: 262.94s, Valid Time: 13.42s, Testing Time: 14.59s
+2025-08-16 11:02:46,432 - __main__ - INFO - Epoch: 46, Train Accuracy: 82.96, Valid Accuracy: 85.17, Test Accuracy: 85.73, Training Time: 263.19s, Valid Time: 13.43s, Testing Time: 14.60s
+2025-08-16 11:07:37,494 - __main__ - INFO - Epoch: 47, Train Accuracy: 82.61, Valid Accuracy: 84.83, Test Accuracy: 85.34, Training Time: 262.99s, Valid Time: 13.47s, Testing Time: 14.59s
+2025-08-16 11:12:28,282 - __main__ - INFO - Epoch: 48, Train Accuracy: 83.19, Valid Accuracy: 84.70, Test Accuracy: 85.93, Training Time: 262.78s, Valid Time: 13.42s, Testing Time: 14.58s
+2025-08-16 11:17:19,303 - __main__ - INFO - Epoch: 49, Train Accuracy: 83.43, Valid Accuracy: 85.30, Test Accuracy: 85.79, Training Time: 263.00s, Valid Time: 13.42s, Testing Time: 14.60s
+2025-08-16 11:22:10,236 - __main__ - INFO - Epoch: 50, Train Accuracy: 83.55, Valid Accuracy: 85.50, Test Accuracy: 86.55, Training Time: 262.91s, Valid Time: 13.42s, Testing Time: 14.60s
+2025-08-16 11:27:00,846 - __main__ - INFO - Epoch: 51, Train Accuracy: 83.47, Valid Accuracy: 85.30, Test Accuracy: 85.93, Training Time: 262.62s, Valid Time: 13.41s, Testing Time: 14.58s
+2025-08-16 11:31:51,617 - __main__ - INFO - Epoch: 52, Train Accuracy: 83.41, Valid Accuracy: 85.32, Test Accuracy: 85.48, Training Time: 262.77s, Valid Time: 13.41s, Testing Time: 14.58s
+2025-08-16 11:36:42,427 - __main__ - INFO - Epoch: 53, Train Accuracy: 83.75, Valid Accuracy: 85.92, Test Accuracy: 86.43, Training Time: 262.81s, Valid Time: 13.41s, Testing Time: 14.59s
+2025-08-16 11:42:28,486 - __main__ - INFO - Epoch: 54, Train Accuracy: 83.30, Valid Accuracy: 85.97, Test Accuracy: 85.17, Training Time: 262.70s, Valid Time: 13.41s, Testing Time: 14.58s
+2025-08-16 11:48:14,549 - __main__ - INFO - Epoch: 55, Train Accuracy: 83.60, Valid Accuracy: 85.28, Test Accuracy: 85.34, Training Time: 262.65s, Valid Time: 13.40s, Testing Time: 14.58s
+2025-08-16 11:53:04,963 - __main__ - INFO - Epoch: 56, Train Accuracy: 83.55, Valid Accuracy: 85.41, Test Accuracy: 85.71, Training Time: 262.46s, Valid Time: 13.40s, Testing Time: 14.56s
+2025-08-16 11:57:55,497 - __main__ - INFO - Epoch: 57, Train Accuracy: 83.45, Valid Accuracy: 85.52, Test Accuracy: 85.63, Training Time: 262.56s, Valid Time: 13.40s, Testing Time: 14.57s
+2025-08-16 12:02:45,895 - __main__ - INFO - Epoch: 58, Train Accuracy: 83.57, Valid Accuracy: 85.21, Test Accuracy: 85.54, Training Time: 262.44s, Valid Time: 13.40s, Testing Time: 14.56s
+2025-08-16 12:07:36,498 - __main__ - INFO - Epoch: 59, Train Accuracy: 83.63, Valid Accuracy: 84.99, Test Accuracy: 85.87, Training Time: 262.55s, Valid Time: 13.44s, Testing Time: 14.61s
+2025-08-16 12:12:26,972 - __main__ - INFO - Epoch: 60, Train Accuracy: 83.78, Valid Accuracy: 85.14, Test Accuracy: 85.50, Training Time: 262.51s, Valid Time: 13.40s, Testing Time: 14.57s
+2025-08-16 12:17:17,505 - __main__ - INFO - Epoch: 61, Train Accuracy: 83.74, Valid Accuracy: 85.70, Test Accuracy: 85.87, Training Time: 262.55s, Valid Time: 13.40s, Testing Time: 14.58s
+2025-08-16 12:22:07,951 - __main__ - INFO - Epoch: 62, Train Accuracy: 84.20, Valid Accuracy: 85.72, Test Accuracy: 85.95, Training Time: 262.49s, Valid Time: 13.39s, Testing Time: 14.56s
+2025-08-16 12:26:58,232 - __main__ - INFO - Epoch: 63, Train Accuracy: 83.55, Valid Accuracy: 85.30, Test Accuracy: 85.28, Training Time: 262.32s, Valid Time: 13.39s, Testing Time: 14.56s
+2025-08-16 12:31:48,632 - __main__ - INFO - Epoch: 64, Train Accuracy: 83.74, Valid Accuracy: 85.28, Test Accuracy: 85.56, Training Time: 262.44s, Valid Time: 13.39s, Testing Time: 14.57s
+2025-08-16 12:36:39,083 - __main__ - INFO - Epoch: 65, Train Accuracy: 84.11, Valid Accuracy: 86.15, Test Accuracy: 86.16, Training Time: 262.49s, Valid Time: 13.39s, Testing Time: 14.57s
+2025-08-16 12:42:24,854 - __main__ - INFO - Epoch: 66, Train Accuracy: 83.33, Valid Accuracy: 85.06, Test Accuracy: 85.52, Training Time: 262.31s, Valid Time: 13.39s, Testing Time: 14.56s
+2025-08-16 12:47:15,146 - __main__ - INFO - Epoch: 67, Train Accuracy: 83.19, Valid Accuracy: 84.63, Test Accuracy: 84.66, Training Time: 262.34s, Valid Time: 13.38s, Testing Time: 14.56s
+2025-08-16 12:52:05,545 - __main__ - INFO - Epoch: 68, Train Accuracy: 83.44, Valid Accuracy: 84.81, Test Accuracy: 85.50, Training Time: 262.44s, Valid Time: 13.39s, Testing Time: 14.57s
+2025-08-16 12:56:55,692 - __main__ - INFO - Epoch: 69, Train Accuracy: 83.54, Valid Accuracy: 84.21, Test Accuracy: 84.99, Training Time: 262.16s, Valid Time: 13.43s, Testing Time: 14.55s
+2025-08-16 13:01:45,663 - __main__ - INFO - Epoch: 70, Train Accuracy: 83.91, Valid Accuracy: 84.88, Test Accuracy: 85.40, Training Time: 262.03s, Valid Time: 13.38s, Testing Time: 14.55s
+2025-08-16 13:06:35,895 - __main__ - INFO - Epoch: 71, Train Accuracy: 83.91, Valid Accuracy: 85.37, Test Accuracy: 85.56, Training Time: 262.26s, Valid Time: 13.39s, Testing Time: 14.57s
+2025-08-16 13:11:25,666 - __main__ - INFO - Epoch: 72, Train Accuracy: 83.78, Valid Accuracy: 85.26, Test Accuracy: 85.44, Training Time: 261.85s, Valid Time: 13.38s, Testing Time: 14.54s
+2025-08-16 13:16:15,668 - __main__ - INFO - Epoch: 73, Train Accuracy: 83.72, Valid Accuracy: 85.59, Test Accuracy: 85.52, Training Time: 262.06s, Valid Time: 13.38s, Testing Time: 14.56s
+2025-08-16 13:21:05,554 - __main__ - INFO - Epoch: 74, Train Accuracy: 83.65, Valid Accuracy: 85.28, Test Accuracy: 85.73, Training Time: 261.99s, Valid Time: 13.36s, Testing Time: 14.53s
+2025-08-16 13:25:55,589 - __main__ - INFO - Epoch: 75, Train Accuracy: 83.64, Valid Accuracy: 85.03, Test Accuracy: 85.24, Training Time: 262.11s, Valid Time: 13.37s, Testing Time: 14.55s
+2025-08-16 13:30:45,709 - __main__ - INFO - Epoch: 76, Train Accuracy: 83.84, Valid Accuracy: 85.43, Test Accuracy: 85.95, Training Time: 262.17s, Valid Time: 13.38s, Testing Time: 14.56s
+2025-08-16 13:35:35,387 - __main__ - INFO - Epoch: 77, Train Accuracy: 84.22, Valid Accuracy: 85.90, Test Accuracy: 86.16, Training Time: 261.78s, Valid Time: 13.36s, Testing Time: 14.53s
+2025-08-16 13:40:25,090 - __main__ - INFO - Epoch: 78, Train Accuracy: 84.11, Valid Accuracy: 85.39, Test Accuracy: 85.48, Training Time: 261.80s, Valid Time: 13.37s, Testing Time: 14.53s
+2025-08-16 13:45:14,937 - __main__ - INFO - Epoch: 79, Train Accuracy: 84.16, Valid Accuracy: 85.79, Test Accuracy: 85.75, Training Time: 261.89s, Valid Time: 13.37s, Testing Time: 14.58s
+2025-08-16 13:50:04,527 - __main__ - INFO - Epoch: 80, Train Accuracy: 84.12, Valid Accuracy: 85.95, Test Accuracy: 85.91, Training Time: 261.70s, Valid Time: 13.35s, Testing Time: 14.53s
+2025-08-16 13:54:54,215 - __main__ - INFO - Epoch: 81, Train Accuracy: 84.38, Valid Accuracy: 86.12, Test Accuracy: 86.28, Training Time: 261.79s, Valid Time: 13.37s, Testing Time: 14.53s
+2025-08-16 13:59:44,129 - __main__ - INFO - Epoch: 82, Train Accuracy: 84.21, Valid Accuracy: 86.33, Test Accuracy: 86.02, Training Time: 262.01s, Valid Time: 13.36s, Testing Time: 14.54s
+2025-08-16 14:05:29,275 - __main__ - INFO - Epoch: 83, Train Accuracy: 83.87, Valid Accuracy: 85.95, Test Accuracy: 85.83, Training Time: 261.91s, Valid Time: 13.36s, Testing Time: 14.53s
+2025-08-16 14:10:18,891 - __main__ - INFO - Epoch: 84, Train Accuracy: 83.73, Valid Accuracy: 85.55, Test Accuracy: 85.20, Training Time: 261.73s, Valid Time: 13.35s, Testing Time: 14.52s
+2025-08-16 14:15:08,845 - __main__ - INFO - Epoch: 85, Train Accuracy: 84.04, Valid Accuracy: 86.01, Test Accuracy: 86.06, Training Time: 262.05s, Valid Time: 13.36s, Testing Time: 14.54s
+2025-08-16 14:19:58,776 - __main__ - INFO - Epoch: 86, Train Accuracy: 84.16, Valid Accuracy: 85.55, Test Accuracy: 85.85, Training Time: 262.02s, Valid Time: 13.37s, Testing Time: 14.54s
+2025-08-16 14:24:48,697 - __main__ - INFO - Epoch: 87, Train Accuracy: 83.84, Valid Accuracy: 85.03, Test Accuracy: 85.40, Training Time: 262.02s, Valid Time: 13.37s, Testing Time: 14.53s
+2025-08-16 14:29:38,465 - __main__ - INFO - Epoch: 88, Train Accuracy: 83.65, Valid Accuracy: 84.86, Test Accuracy: 85.36, Training Time: 261.86s, Valid Time: 13.37s, Testing Time: 14.54s
+2025-08-16 14:34:28,170 - __main__ - INFO - Epoch: 89, Train Accuracy: 83.94, Valid Accuracy: 85.61, Test Accuracy: 86.20, Training Time: 261.77s, Valid Time: 13.41s, Testing Time: 14.53s
+2025-08-16 14:39:18,145 - __main__ - INFO - Epoch: 90, Train Accuracy: 84.58, Valid Accuracy: 85.99, Test Accuracy: 86.55, Training Time: 262.06s, Valid Time: 13.37s, Testing Time: 14.54s
+2025-08-16 14:44:07,720 - __main__ - INFO - Epoch: 91, Train Accuracy: 84.22, Valid Accuracy: 85.43, Test Accuracy: 85.75, Training Time: 261.70s, Valid Time: 13.35s, Testing Time: 14.52s
+2025-08-16 14:48:57,229 - __main__ - INFO - Epoch: 92, Train Accuracy: 83.73, Valid Accuracy: 84.81, Test Accuracy: 85.54, Training Time: 261.64s, Valid Time: 13.35s, Testing Time: 14.52s
+2025-08-16 14:53:46,811 - __main__ - INFO - Epoch: 93, Train Accuracy: 84.26, Valid Accuracy: 85.30, Test Accuracy: 85.79, Training Time: 261.70s, Valid Time: 13.36s, Testing Time: 14.52s
+2025-08-16 14:58:36,025 - __main__ - INFO - Epoch: 94, Train Accuracy: 84.24, Valid Accuracy: 85.19, Test Accuracy: 85.75, Training Time: 261.37s, Valid Time: 13.33s, Testing Time: 14.50s
+2025-08-16 15:03:25,358 - __main__ - INFO - Epoch: 95, Train Accuracy: 84.26, Valid Accuracy: 85.35, Test Accuracy: 86.63, Training Time: 261.48s, Valid Time: 13.33s, Testing Time: 14.51s
+2025-08-16 15:08:14,260 - __main__ - INFO - Epoch: 96, Train Accuracy: 84.38, Valid Accuracy: 85.68, Test Accuracy: 86.86, Training Time: 261.07s, Valid Time: 13.34s, Testing Time: 14.49s
+2025-08-16 15:13:03,425 - __main__ - INFO - Epoch: 97, Train Accuracy: 84.41, Valid Accuracy: 85.68, Test Accuracy: 86.53, Training Time: 261.33s, Valid Time: 13.33s, Testing Time: 14.50s
+2025-08-16 15:17:52,635 - __main__ - INFO - Epoch: 98, Train Accuracy: 84.40, Valid Accuracy: 85.21, Test Accuracy: 85.87, Training Time: 261.36s, Valid Time: 13.33s, Testing Time: 14.51s
+2025-08-16 15:22:41,830 - __main__ - INFO - Epoch: 99, Train Accuracy: 84.54, Valid Accuracy: 85.61, Test Accuracy: 86.02, Training Time: 261.30s, Valid Time: 13.35s, Testing Time: 14.55s
+2025-08-16 15:27:30,973 - __main__ - INFO - Epoch: 100, Train Accuracy: 84.55, Valid Accuracy: 85.95, Test Accuracy: 86.82, Training Time: 261.29s, Valid Time: 13.35s, Testing Time: 14.51s
+2025-08-16 15:32:20,179 - __main__ - INFO - Epoch: 101, Train Accuracy: 84.42, Valid Accuracy: 86.17, Test Accuracy: 86.65, Training Time: 261.33s, Valid Time: 13.35s, Testing Time: 14.52s
+2025-08-16 15:37:09,265 - __main__ - INFO - Epoch: 102, Train Accuracy: 84.06, Valid Accuracy: 85.68, Test Accuracy: 86.37, Training Time: 261.22s, Valid Time: 13.34s, Testing Time: 14.52s
+2025-08-16 15:41:58,258 - __main__ - INFO - Epoch: 103, Train Accuracy: 84.53, Valid Accuracy: 85.86, Test Accuracy: 86.53, Training Time: 261.17s, Valid Time: 13.33s, Testing Time: 14.49s
+2025-08-16 15:46:47,088 - __main__ - INFO - Epoch: 104, Train Accuracy: 84.36, Valid Accuracy: 86.24, Test Accuracy: 86.24, Training Time: 261.02s, Valid Time: 13.32s, Testing Time: 14.49s
+2025-08-16 15:51:36,263 - __main__ - INFO - Epoch: 105, Train Accuracy: 84.11, Valid Accuracy: 85.68, Test Accuracy: 85.59, Training Time: 261.34s, Valid Time: 13.34s, Testing Time: 14.50s
+2025-08-16 15:56:25,483 - __main__ - INFO - Epoch: 106, Train Accuracy: 84.20, Valid Accuracy: 85.26, Test Accuracy: 85.89, Training Time: 261.38s, Valid Time: 13.33s, Testing Time: 14.51s
+2025-08-16 16:01:14,903 - __main__ - INFO - Epoch: 107, Train Accuracy: 84.47, Valid Accuracy: 85.79, Test Accuracy: 86.37, Training Time: 261.57s, Valid Time: 13.34s, Testing Time: 14.51s
+2025-08-16 16:06:04,071 - __main__ - INFO - Epoch: 108, Train Accuracy: 84.36, Valid Accuracy: 85.01, Test Accuracy: 86.37, Training Time: 261.29s, Valid Time: 13.38s, Testing Time: 14.50s
+2025-08-16 16:10:53,464 - __main__ - INFO - Epoch: 109, Train Accuracy: 84.30, Valid Accuracy: 85.77, Test Accuracy: 86.02, Training Time: 261.53s, Valid Time: 13.35s, Testing Time: 14.52s
+2025-08-16 16:15:42,568 - __main__ - INFO - Epoch: 110, Train Accuracy: 84.59, Valid Accuracy: 85.84, Test Accuracy: 87.02, Training Time: 261.30s, Valid Time: 13.32s, Testing Time: 14.49s
+2025-08-16 16:20:31,685 - __main__ - INFO - Epoch: 111, Train Accuracy: 84.84, Valid Accuracy: 86.10, Test Accuracy: 87.13, Training Time: 261.29s, Valid Time: 13.34s, Testing Time: 14.48s
+2025-08-16 16:25:20,623 - __main__ - INFO - Epoch: 112, Train Accuracy: 84.68, Valid Accuracy: 85.46, Test Accuracy: 86.86, Training Time: 261.14s, Valid Time: 13.31s, Testing Time: 14.48s
+2025-08-16 16:30:09,293 - __main__ - INFO - Epoch: 113, Train Accuracy: 84.57, Valid Accuracy: 85.17, Test Accuracy: 86.49, Training Time: 260.89s, Valid Time: 13.30s, Testing Time: 14.47s
+2025-08-16 16:34:58,237 - __main__ - INFO - Epoch: 114, Train Accuracy: 84.61, Valid Accuracy: 85.95, Test Accuracy: 86.82, Training Time: 261.13s, Valid Time: 13.32s, Testing Time: 14.49s
+2025-08-16 16:39:47,206 - __main__ - INFO - Epoch: 115, Train Accuracy: 84.68, Valid Accuracy: 86.12, Test Accuracy: 86.30, Training Time: 261.18s, Valid Time: 13.32s, Testing Time: 14.48s
+2025-08-16 16:44:36,056 - __main__ - INFO - Epoch: 116, Train Accuracy: 84.59, Valid Accuracy: 86.37, Test Accuracy: 86.41, Training Time: 261.05s, Valid Time: 13.32s, Testing Time: 14.48s
+2025-08-16 16:50:20,122 - __main__ - INFO - Epoch: 117, Train Accuracy: 84.47, Valid Accuracy: 85.55, Test Accuracy: 85.89, Training Time: 261.04s, Valid Time: 13.31s, Testing Time: 14.48s
+2025-08-16 16:55:09,003 - __main__ - INFO - Epoch: 118, Train Accuracy: 84.16, Valid Accuracy: 85.14, Test Accuracy: 85.91, Training Time: 261.08s, Valid Time: 13.32s, Testing Time: 14.48s
+2025-08-16 16:59:57,681 - __main__ - INFO - Epoch: 119, Train Accuracy: 84.21, Valid Accuracy: 84.90, Test Accuracy: 85.59, Training Time: 260.85s, Valid Time: 13.30s, Testing Time: 14.52s
+2025-08-16 17:04:46,124 - __main__ - INFO - Epoch: 120, Train Accuracy: 84.21, Valid Accuracy: 85.81, Test Accuracy: 86.00, Training Time: 260.68s, Valid Time: 13.30s, Testing Time: 14.46s
+2025-08-16 17:09:34,849 - __main__ - INFO - Epoch: 121, Train Accuracy: 84.43, Valid Accuracy: 84.79, Test Accuracy: 85.83, Training Time: 260.93s, Valid Time: 13.31s, Testing Time: 14.47s
+2025-08-16 17:14:23,373 - __main__ - INFO - Epoch: 122, Train Accuracy: 84.90, Valid Accuracy: 85.92, Test Accuracy: 86.43, Training Time: 260.76s, Valid Time: 13.30s, Testing Time: 14.46s
+2025-08-16 17:19:11,946 - __main__ - INFO - Epoch: 123, Train Accuracy: 84.12, Valid Accuracy: 84.70, Test Accuracy: 85.13, Training Time: 260.81s, Valid Time: 13.30s, Testing Time: 14.46s
+2025-08-16 17:24:00,471 - __main__ - INFO - Epoch: 124, Train Accuracy: 83.89, Valid Accuracy: 84.59, Test Accuracy: 85.79, Training Time: 260.78s, Valid Time: 13.29s, Testing Time: 14.45s
+2025-08-16 17:28:48,913 - __main__ - INFO - Epoch: 125, Train Accuracy: 84.34, Valid Accuracy: 85.32, Test Accuracy: 85.87, Training Time: 260.69s, Valid Time: 13.29s, Testing Time: 14.46s
+2025-08-16 17:33:37,454 - __main__ - INFO - Epoch: 126, Train Accuracy: 84.13, Valid Accuracy: 85.17, Test Accuracy: 85.69, Training Time: 260.76s, Valid Time: 13.31s, Testing Time: 14.47s
+2025-08-16 17:38:25,787 - __main__ - INFO - Epoch: 127, Train Accuracy: 84.20, Valid Accuracy: 85.86, Test Accuracy: 85.71, Training Time: 260.57s, Valid Time: 13.30s, Testing Time: 14.46s
+2025-08-16 17:43:14,281 - __main__ - INFO - Epoch: 128, Train Accuracy: 84.41, Valid Accuracy: 85.63, Test Accuracy: 86.16, Training Time: 260.67s, Valid Time: 13.35s, Testing Time: 14.48s
+2025-08-16 17:48:02,544 - __main__ - INFO - Epoch: 129, Train Accuracy: 84.39, Valid Accuracy: 85.23, Test Accuracy: 86.02, Training Time: 260.51s, Valid Time: 13.30s, Testing Time: 14.45s
+2025-08-16 17:52:50,897 - __main__ - INFO - Epoch: 130, Train Accuracy: 84.46, Valid Accuracy: 85.03, Test Accuracy: 85.79, Training Time: 260.61s, Valid Time: 13.29s, Testing Time: 14.45s
+2025-08-16 17:57:39,000 - __main__ - INFO - Epoch: 131, Train Accuracy: 84.56, Valid Accuracy: 85.57, Test Accuracy: 85.67, Training Time: 260.38s, Valid Time: 13.28s, Testing Time: 14.44s
+2025-08-16 18:02:27,157 - __main__ - INFO - Epoch: 132, Train Accuracy: 84.64, Valid Accuracy: 85.97, Test Accuracy: 86.26, Training Time: 260.43s, Valid Time: 13.28s, Testing Time: 14.45s
+2025-08-16 18:07:15,221 - __main__ - INFO - Epoch: 133, Train Accuracy: 84.67, Valid Accuracy: 85.95, Test Accuracy: 85.85, Training Time: 260.33s, Valid Time: 13.28s, Testing Time: 14.45s
+2025-08-16 18:12:03,329 - __main__ - INFO - Epoch: 134, Train Accuracy: 84.65, Valid Accuracy: 85.46, Test Accuracy: 85.87, Training Time: 260.38s, Valid Time: 13.28s, Testing Time: 14.44s
+2025-08-16 18:16:51,524 - __main__ - INFO - Epoch: 135, Train Accuracy: 84.42, Valid Accuracy: 86.01, Test Accuracy: 85.75, Training Time: 260.45s, Valid Time: 13.29s, Testing Time: 14.45s
+2025-08-16 18:21:39,529 - __main__ - INFO - Epoch: 136, Train Accuracy: 84.27, Valid Accuracy: 85.95, Test Accuracy: 85.24, Training Time: 260.34s, Valid Time: 13.26s, Testing Time: 14.40s
+2025-08-16 18:26:27,538 - __main__ - INFO - Epoch: 137, Train Accuracy: 84.39, Valid Accuracy: 86.15, Test Accuracy: 86.10, Training Time: 260.33s, Valid Time: 13.27s, Testing Time: 14.40s
+2025-08-16 18:31:15,559 - __main__ - INFO - Epoch: 138, Train Accuracy: 84.69, Valid Accuracy: 86.19, Test Accuracy: 85.98, Training Time: 260.30s, Valid Time: 13.27s, Testing Time: 14.45s
+2025-08-16 18:36:03,500 - __main__ - INFO - Epoch: 139, Train Accuracy: 84.42, Valid Accuracy: 86.39, Test Accuracy: 85.67, Training Time: 260.27s, Valid Time: 13.26s, Testing Time: 14.41s
+2025-08-16 18:41:46,552 - __main__ - INFO - Epoch: 140, Train Accuracy: 84.53, Valid Accuracy: 86.48, Test Accuracy: 86.26, Training Time: 260.27s, Valid Time: 13.26s, Testing Time: 14.41s
+2025-08-16 18:47:29,199 - __main__ - INFO - Epoch: 141, Train Accuracy: 84.59, Valid Accuracy: 86.10, Test Accuracy: 86.22, Training Time: 260.07s, Valid Time: 13.26s, Testing Time: 14.39s
+2025-08-16 18:52:17,262 - __main__ - INFO - Epoch: 142, Train Accuracy: 84.71, Valid Accuracy: 86.73, Test Accuracy: 86.47, Training Time: 260.38s, Valid Time: 13.27s, Testing Time: 14.42s
+2025-08-16 18:58:00,131 - __main__ - INFO - Epoch: 143, Train Accuracy: 84.51, Valid Accuracy: 85.86, Test Accuracy: 86.37, Training Time: 260.27s, Valid Time: 13.26s, Testing Time: 14.41s
+2025-08-16 19:02:47,850 - __main__ - INFO - Epoch: 144, Train Accuracy: 84.77, Valid Accuracy: 86.10, Test Accuracy: 85.98, Training Time: 260.07s, Valid Time: 13.25s, Testing Time: 14.39s
+2025-08-16 19:07:35,692 - __main__ - INFO - Epoch: 145, Train Accuracy: 84.40, Valid Accuracy: 85.43, Test Accuracy: 85.93, Training Time: 260.19s, Valid Time: 13.25s, Testing Time: 14.40s
+2025-08-16 19:12:23,460 - __main__ - INFO - Epoch: 146, Train Accuracy: 84.43, Valid Accuracy: 85.72, Test Accuracy: 86.04, Training Time: 260.12s, Valid Time: 13.26s, Testing Time: 14.39s
+2025-08-16 19:17:11,674 - __main__ - INFO - Epoch: 147, Train Accuracy: 84.47, Valid Accuracy: 85.57, Test Accuracy: 85.91, Training Time: 260.55s, Valid Time: 13.26s, Testing Time: 14.41s
+2025-08-16 19:21:59,687 - __main__ - INFO - Epoch: 148, Train Accuracy: 84.53, Valid Accuracy: 85.52, Test Accuracy: 86.06, Training Time: 260.34s, Valid Time: 13.26s, Testing Time: 14.40s
+2025-08-16 19:26:47,889 - __main__ - INFO - Epoch: 149, Train Accuracy: 84.39, Valid Accuracy: 85.90, Test Accuracy: 85.91, Training Time: 260.53s, Valid Time: 13.26s, Testing Time: 14.41s
+2025-08-16 19:31:36,018 - __main__ - INFO - Epoch: 150, Train Accuracy: 84.78, Valid Accuracy: 86.21, Test Accuracy: 86.76, Training Time: 260.43s, Valid Time: 13.26s, Testing Time: 14.44s
+2025-08-16 19:36:24,069 - __main__ - INFO - Epoch: 151, Train Accuracy: 84.74, Valid Accuracy: 85.84, Test Accuracy: 87.00, Training Time: 260.37s, Valid Time: 13.26s, Testing Time: 14.41s
+2025-08-16 19:41:11,823 - __main__ - INFO - Epoch: 152, Train Accuracy: 84.83, Valid Accuracy: 85.97, Test Accuracy: 86.69, Training Time: 260.11s, Valid Time: 13.25s, Testing Time: 14.39s
+2025-08-16 19:45:59,352 - __main__ - INFO - Epoch: 153, Train Accuracy: 84.84, Valid Accuracy: 85.97, Test Accuracy: 86.32, Training Time: 259.91s, Valid Time: 13.24s, Testing Time: 14.38s
+2025-08-16 19:50:46,695 - __main__ - INFO - Epoch: 154, Train Accuracy: 84.74, Valid Accuracy: 86.73, Test Accuracy: 86.34, Training Time: 259.74s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 19:55:34,197 - __main__ - INFO - Epoch: 155, Train Accuracy: 84.66, Valid Accuracy: 86.46, Test Accuracy: 86.63, Training Time: 259.88s, Valid Time: 13.24s, Testing Time: 14.38s
+2025-08-16 20:00:21,719 - __main__ - INFO - Epoch: 156, Train Accuracy: 84.65, Valid Accuracy: 86.37, Test Accuracy: 86.00, Training Time: 259.90s, Valid Time: 13.24s, Testing Time: 14.37s
+2025-08-16 20:05:09,122 - __main__ - INFO - Epoch: 157, Train Accuracy: 84.46, Valid Accuracy: 86.08, Test Accuracy: 86.51, Training Time: 259.80s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 20:09:56,468 - __main__ - INFO - Epoch: 158, Train Accuracy: 84.77, Valid Accuracy: 86.44, Test Accuracy: 86.65, Training Time: 259.74s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 20:14:43,724 - __main__ - INFO - Epoch: 159, Train Accuracy: 84.93, Valid Accuracy: 85.99, Test Accuracy: 86.80, Training Time: 259.62s, Valid Time: 13.27s, Testing Time: 14.36s
+2025-08-16 20:19:31,045 - __main__ - INFO - Epoch: 160, Train Accuracy: 84.58, Valid Accuracy: 86.08, Test Accuracy: 86.26, Training Time: 259.72s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 20:24:18,009 - __main__ - INFO - Epoch: 161, Train Accuracy: 84.68, Valid Accuracy: 85.48, Test Accuracy: 86.10, Training Time: 259.39s, Valid Time: 13.22s, Testing Time: 14.35s
+2025-08-16 20:29:05,205 - __main__ - INFO - Epoch: 162, Train Accuracy: 84.27, Valid Accuracy: 85.66, Test Accuracy: 86.41, Training Time: 259.62s, Valid Time: 13.21s, Testing Time: 14.36s
+2025-08-16 20:33:52,180 - __main__ - INFO - Epoch: 163, Train Accuracy: 84.42, Valid Accuracy: 86.26, Test Accuracy: 86.04, Training Time: 259.41s, Valid Time: 13.22s, Testing Time: 14.35s
+2025-08-16 20:38:39,489 - __main__ - INFO - Epoch: 164, Train Accuracy: 84.83, Valid Accuracy: 85.75, Test Accuracy: 86.69, Training Time: 259.72s, Valid Time: 13.22s, Testing Time: 14.36s
+2025-08-16 20:43:26,825 - __main__ - INFO - Epoch: 165, Train Accuracy: 85.04, Valid Accuracy: 85.99, Test Accuracy: 86.39, Training Time: 259.74s, Valid Time: 13.23s, Testing Time: 14.36s
+2025-08-16 20:48:14,026 - __main__ - INFO - Epoch: 166, Train Accuracy: 84.65, Valid Accuracy: 85.06, Test Accuracy: 86.34, Training Time: 259.62s, Valid Time: 13.22s, Testing Time: 14.36s
+2025-08-16 20:53:01,139 - __main__ - INFO - Epoch: 167, Train Accuracy: 84.35, Valid Accuracy: 84.70, Test Accuracy: 86.67, Training Time: 259.54s, Valid Time: 13.22s, Testing Time: 14.35s
+2025-08-16 20:57:48,581 - __main__ - INFO - Epoch: 168, Train Accuracy: 84.84, Valid Accuracy: 85.68, Test Accuracy: 86.47, Training Time: 259.84s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 21:02:36,024 - __main__ - INFO - Epoch: 169, Train Accuracy: 84.79, Valid Accuracy: 86.15, Test Accuracy: 86.30, Training Time: 259.79s, Valid Time: 13.24s, Testing Time: 14.41s
+2025-08-16 21:07:23,316 - __main__ - INFO - Epoch: 170, Train Accuracy: 84.65, Valid Accuracy: 85.63, Test Accuracy: 85.81, Training Time: 259.67s, Valid Time: 13.24s, Testing Time: 14.38s
+2025-08-16 21:12:10,398 - __main__ - INFO - Epoch: 171, Train Accuracy: 84.60, Valid Accuracy: 85.81, Test Accuracy: 85.44, Training Time: 259.50s, Valid Time: 13.22s, Testing Time: 14.36s
+2025-08-16 21:16:57,463 - __main__ - INFO - Epoch: 172, Train Accuracy: 84.46, Valid Accuracy: 86.21, Test Accuracy: 86.32, Training Time: 259.48s, Valid Time: 13.22s, Testing Time: 14.36s
+2025-08-16 21:21:44,260 - __main__ - INFO - Epoch: 173, Train Accuracy: 85.04, Valid Accuracy: 86.53, Test Accuracy: 86.39, Training Time: 259.23s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-16 21:26:31,217 - __main__ - INFO - Epoch: 174, Train Accuracy: 84.65, Valid Accuracy: 85.84, Test Accuracy: 86.24, Training Time: 259.40s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 21:31:18,397 - __main__ - INFO - Epoch: 175, Train Accuracy: 84.66, Valid Accuracy: 85.61, Test Accuracy: 86.12, Training Time: 259.61s, Valid Time: 13.22s, Testing Time: 14.35s
+2025-08-16 21:36:05,669 - __main__ - INFO - Epoch: 176, Train Accuracy: 84.89, Valid Accuracy: 85.70, Test Accuracy: 86.16, Training Time: 259.67s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 21:40:53,191 - __main__ - INFO - Epoch: 177, Train Accuracy: 84.77, Valid Accuracy: 86.28, Test Accuracy: 85.83, Training Time: 259.91s, Valid Time: 13.23s, Testing Time: 14.38s
+2025-08-16 21:45:40,521 - __main__ - INFO - Epoch: 178, Train Accuracy: 84.86, Valid Accuracy: 86.15, Test Accuracy: 86.06, Training Time: 259.69s, Valid Time: 13.27s, Testing Time: 14.37s
+2025-08-16 21:50:27,674 - __main__ - INFO - Epoch: 179, Train Accuracy: 84.81, Valid Accuracy: 85.88, Test Accuracy: 86.24, Training Time: 259.56s, Valid Time: 13.23s, Testing Time: 14.36s
+2025-08-16 21:55:14,918 - __main__ - INFO - Epoch: 180, Train Accuracy: 85.07, Valid Accuracy: 85.84, Test Accuracy: 86.45, Training Time: 259.64s, Valid Time: 13.22s, Testing Time: 14.37s
+2025-08-16 22:00:01,792 - __main__ - INFO - Epoch: 181, Train Accuracy: 84.97, Valid Accuracy: 85.88, Test Accuracy: 86.14, Training Time: 259.32s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 22:04:48,513 - __main__ - INFO - Epoch: 182, Train Accuracy: 84.68, Valid Accuracy: 85.48, Test Accuracy: 86.12, Training Time: 259.18s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-16 22:09:35,416 - __main__ - INFO - Epoch: 183, Train Accuracy: 84.88, Valid Accuracy: 86.50, Test Accuracy: 85.93, Training Time: 259.35s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 22:14:22,118 - __main__ - INFO - Epoch: 184, Train Accuracy: 84.83, Valid Accuracy: 86.28, Test Accuracy: 86.28, Training Time: 259.15s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 22:19:08,730 - __main__ - INFO - Epoch: 185, Train Accuracy: 84.76, Valid Accuracy: 86.35, Test Accuracy: 86.47, Training Time: 259.07s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-16 22:23:55,588 - __main__ - INFO - Epoch: 186, Train Accuracy: 84.93, Valid Accuracy: 86.21, Test Accuracy: 85.98, Training Time: 259.30s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-16 22:28:42,286 - __main__ - INFO - Epoch: 187, Train Accuracy: 84.83, Valid Accuracy: 85.68, Test Accuracy: 86.59, Training Time: 259.13s, Valid Time: 13.22s, Testing Time: 14.34s
+2025-08-16 22:33:29,212 - __main__ - INFO - Epoch: 188, Train Accuracy: 84.83, Valid Accuracy: 85.90, Test Accuracy: 85.75, Training Time: 259.33s, Valid Time: 13.21s, Testing Time: 14.38s
+2025-08-16 22:38:16,050 - __main__ - INFO - Epoch: 189, Train Accuracy: 84.85, Valid Accuracy: 85.75, Test Accuracy: 86.16, Training Time: 259.29s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 22:43:03,017 - __main__ - INFO - Epoch: 190, Train Accuracy: 84.90, Valid Accuracy: 86.21, Test Accuracy: 86.74, Training Time: 259.40s, Valid Time: 13.21s, Testing Time: 14.36s
+2025-08-16 22:47:49,863 - __main__ - INFO - Epoch: 191, Train Accuracy: 84.84, Valid Accuracy: 86.41, Test Accuracy: 86.69, Training Time: 259.29s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 22:52:37,301 - __main__ - INFO - Epoch: 192, Train Accuracy: 85.07, Valid Accuracy: 86.57, Test Accuracy: 86.41, Training Time: 259.84s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 22:57:24,466 - __main__ - INFO - Epoch: 193, Train Accuracy: 84.86, Valid Accuracy: 86.17, Test Accuracy: 85.89, Training Time: 259.57s, Valid Time: 13.23s, Testing Time: 14.36s
+2025-08-16 23:02:11,539 - __main__ - INFO - Epoch: 194, Train Accuracy: 84.85, Valid Accuracy: 86.01, Test Accuracy: 85.89, Training Time: 259.49s, Valid Time: 13.22s, Testing Time: 14.36s
+2025-08-16 23:06:58,972 - __main__ - INFO - Epoch: 195, Train Accuracy: 84.92, Valid Accuracy: 85.90, Test Accuracy: 86.57, Training Time: 259.82s, Valid Time: 13.24s, Testing Time: 14.37s
+2025-08-16 23:11:46,113 - __main__ - INFO - Epoch: 196, Train Accuracy: 84.84, Valid Accuracy: 85.97, Test Accuracy: 86.86, Training Time: 259.54s, Valid Time: 13.23s, Testing Time: 14.37s
+2025-08-16 23:16:32,832 - __main__ - INFO - Epoch: 197, Train Accuracy: 84.87, Valid Accuracy: 86.28, Test Accuracy: 85.83, Training Time: 259.12s, Valid Time: 13.25s, Testing Time: 14.35s
+2025-08-16 23:21:19,959 - __main__ - INFO - Epoch: 198, Train Accuracy: 84.92, Valid Accuracy: 85.26, Test Accuracy: 86.37, Training Time: 259.56s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-16 23:26:06,661 - __main__ - INFO - Epoch: 199, Train Accuracy: 84.68, Valid Accuracy: 86.01, Test Accuracy: 85.95, Training Time: 259.17s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-16 23:30:53,393 - __main__ - INFO - Epoch: 200, Train Accuracy: 84.67, Valid Accuracy: 85.88, Test Accuracy: 86.37, Training Time: 259.18s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-16 23:35:40,071 - __main__ - INFO - Epoch: 201, Train Accuracy: 84.16, Valid Accuracy: 85.84, Test Accuracy: 85.67, Training Time: 259.15s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-16 23:40:26,516 - __main__ - INFO - Epoch: 202, Train Accuracy: 84.82, Valid Accuracy: 86.50, Test Accuracy: 85.59, Training Time: 258.94s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-16 23:45:12,982 - __main__ - INFO - Epoch: 203, Train Accuracy: 85.25, Valid Accuracy: 86.35, Test Accuracy: 85.95, Training Time: 258.96s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-16 23:49:59,390 - __main__ - INFO - Epoch: 204, Train Accuracy: 84.37, Valid Accuracy: 85.41, Test Accuracy: 85.69, Training Time: 258.89s, Valid Time: 13.18s, Testing Time: 14.33s
+2025-08-16 23:54:45,829 - __main__ - INFO - Epoch: 205, Train Accuracy: 84.95, Valid Accuracy: 85.59, Test Accuracy: 86.20, Training Time: 258.94s, Valid Time: 13.19s, Testing Time: 14.31s
+2025-08-16 23:59:32,266 - __main__ - INFO - Epoch: 206, Train Accuracy: 84.54, Valid Accuracy: 86.01, Test Accuracy: 85.95, Training Time: 258.92s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 00:04:18,643 - __main__ - INFO - Epoch: 207, Train Accuracy: 84.25, Valid Accuracy: 84.86, Test Accuracy: 85.56, Training Time: 258.82s, Valid Time: 13.19s, Testing Time: 14.36s
+2025-08-17 00:09:05,094 - __main__ - INFO - Epoch: 208, Train Accuracy: 84.53, Valid Accuracy: 85.23, Test Accuracy: 86.28, Training Time: 258.94s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 00:13:51,604 - __main__ - INFO - Epoch: 209, Train Accuracy: 84.17, Valid Accuracy: 84.90, Test Accuracy: 85.52, Training Time: 258.98s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 00:18:38,209 - __main__ - INFO - Epoch: 210, Train Accuracy: 84.19, Valid Accuracy: 85.14, Test Accuracy: 85.52, Training Time: 259.08s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 00:23:24,735 - __main__ - INFO - Epoch: 211, Train Accuracy: 84.88, Valid Accuracy: 85.70, Test Accuracy: 86.49, Training Time: 258.99s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 00:28:11,191 - __main__ - INFO - Epoch: 212, Train Accuracy: 84.88, Valid Accuracy: 85.68, Test Accuracy: 86.45, Training Time: 258.94s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 00:32:57,748 - __main__ - INFO - Epoch: 213, Train Accuracy: 85.11, Valid Accuracy: 85.84, Test Accuracy: 85.91, Training Time: 259.05s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 00:37:44,356 - __main__ - INFO - Epoch: 214, Train Accuracy: 85.17, Valid Accuracy: 86.75, Test Accuracy: 86.24, Training Time: 259.10s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 00:43:25,832 - __main__ - INFO - Epoch: 215, Train Accuracy: 85.19, Valid Accuracy: 86.08, Test Accuracy: 86.59, Training Time: 259.25s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 00:48:12,503 - __main__ - INFO - Epoch: 216, Train Accuracy: 84.86, Valid Accuracy: 85.97, Test Accuracy: 86.20, Training Time: 259.11s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 00:52:59,191 - __main__ - INFO - Epoch: 217, Train Accuracy: 84.59, Valid Accuracy: 85.30, Test Accuracy: 86.24, Training Time: 259.09s, Valid Time: 13.26s, Testing Time: 14.34s
+2025-08-17 00:57:45,778 - __main__ - INFO - Epoch: 218, Train Accuracy: 85.26, Valid Accuracy: 85.86, Test Accuracy: 86.34, Training Time: 259.05s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-17 01:02:32,387 - __main__ - INFO - Epoch: 219, Train Accuracy: 85.08, Valid Accuracy: 86.37, Test Accuracy: 86.94, Training Time: 259.07s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 01:07:19,091 - __main__ - INFO - Epoch: 220, Train Accuracy: 84.71, Valid Accuracy: 85.92, Test Accuracy: 86.30, Training Time: 259.17s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 01:12:05,571 - __main__ - INFO - Epoch: 221, Train Accuracy: 84.81, Valid Accuracy: 86.39, Test Accuracy: 85.89, Training Time: 258.95s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 01:16:52,181 - __main__ - INFO - Epoch: 222, Train Accuracy: 84.12, Valid Accuracy: 86.08, Test Accuracy: 85.46, Training Time: 259.08s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 01:21:38,806 - __main__ - INFO - Epoch: 223, Train Accuracy: 84.84, Valid Accuracy: 86.48, Test Accuracy: 86.06, Training Time: 259.09s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 01:26:25,218 - __main__ - INFO - Epoch: 224, Train Accuracy: 84.93, Valid Accuracy: 87.15, Test Accuracy: 86.20, Training Time: 258.89s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 01:32:06,680 - __main__ - INFO - Epoch: 225, Train Accuracy: 85.10, Valid Accuracy: 86.57, Test Accuracy: 86.26, Training Time: 259.18s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-17 01:36:53,274 - __main__ - INFO - Epoch: 226, Train Accuracy: 84.81, Valid Accuracy: 85.95, Test Accuracy: 86.26, Training Time: 259.07s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 01:41:39,864 - __main__ - INFO - Epoch: 227, Train Accuracy: 84.77, Valid Accuracy: 86.21, Test Accuracy: 85.93, Training Time: 259.07s, Valid Time: 13.20s, Testing Time: 14.32s
+2025-08-17 01:46:26,449 - __main__ - INFO - Epoch: 228, Train Accuracy: 84.64, Valid Accuracy: 86.17, Test Accuracy: 85.61, Training Time: 259.03s, Valid Time: 13.19s, Testing Time: 14.36s
+2025-08-17 01:51:13,186 - __main__ - INFO - Epoch: 229, Train Accuracy: 84.83, Valid Accuracy: 85.35, Test Accuracy: 85.54, Training Time: 259.20s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 01:56:00,262 - __main__ - INFO - Epoch: 230, Train Accuracy: 85.28, Valid Accuracy: 86.04, Test Accuracy: 86.74, Training Time: 259.51s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 02:00:47,105 - __main__ - INFO - Epoch: 231, Train Accuracy: 85.08, Valid Accuracy: 86.37, Test Accuracy: 86.69, Training Time: 259.29s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-17 02:05:34,008 - __main__ - INFO - Epoch: 232, Train Accuracy: 84.21, Valid Accuracy: 84.99, Test Accuracy: 85.79, Training Time: 259.35s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 02:10:20,959 - __main__ - INFO - Epoch: 233, Train Accuracy: 84.54, Valid Accuracy: 86.17, Test Accuracy: 85.65, Training Time: 259.38s, Valid Time: 13.22s, Testing Time: 14.35s
+2025-08-17 02:15:07,712 - __main__ - INFO - Epoch: 234, Train Accuracy: 84.91, Valid Accuracy: 86.77, Test Accuracy: 86.61, Training Time: 259.23s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 02:19:54,876 - __main__ - INFO - Epoch: 235, Train Accuracy: 84.58, Valid Accuracy: 85.63, Test Accuracy: 86.08, Training Time: 259.58s, Valid Time: 13.22s, Testing Time: 14.36s
+2025-08-17 02:24:42,003 - __main__ - INFO - Epoch: 236, Train Accuracy: 84.63, Valid Accuracy: 85.48, Test Accuracy: 86.26, Training Time: 259.55s, Valid Time: 13.21s, Testing Time: 14.36s
+2025-08-17 02:29:28,679 - __main__ - INFO - Epoch: 237, Train Accuracy: 85.05, Valid Accuracy: 85.75, Test Accuracy: 86.84, Training Time: 259.10s, Valid Time: 13.24s, Testing Time: 14.33s
+2025-08-17 02:34:15,202 - __main__ - INFO - Epoch: 238, Train Accuracy: 84.79, Valid Accuracy: 85.66, Test Accuracy: 86.28, Training Time: 259.01s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 02:39:01,783 - __main__ - INFO - Epoch: 239, Train Accuracy: 84.55, Valid Accuracy: 85.35, Test Accuracy: 86.24, Training Time: 259.06s, Valid Time: 13.20s, Testing Time: 14.32s
+2025-08-17 02:43:48,552 - __main__ - INFO - Epoch: 240, Train Accuracy: 85.06, Valid Accuracy: 86.48, Test Accuracy: 86.86, Training Time: 259.22s, Valid Time: 13.21s, Testing Time: 14.34s
+2025-08-17 02:48:35,065 - __main__ - INFO - Epoch: 241, Train Accuracy: 85.18, Valid Accuracy: 86.53, Test Accuracy: 86.94, Training Time: 259.01s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 02:53:21,547 - __main__ - INFO - Epoch: 242, Train Accuracy: 85.13, Valid Accuracy: 86.41, Test Accuracy: 86.82, Training Time: 258.96s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 02:58:07,753 - __main__ - INFO - Epoch: 243, Train Accuracy: 85.19, Valid Accuracy: 86.10, Test Accuracy: 86.78, Training Time: 258.71s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 03:02:54,047 - __main__ - INFO - Epoch: 244, Train Accuracy: 85.06, Valid Accuracy: 86.73, Test Accuracy: 86.47, Training Time: 258.79s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 03:07:40,758 - __main__ - INFO - Epoch: 245, Train Accuracy: 85.00, Valid Accuracy: 86.50, Test Accuracy: 86.80, Training Time: 259.17s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 03:12:27,199 - __main__ - INFO - Epoch: 246, Train Accuracy: 85.17, Valid Accuracy: 86.30, Test Accuracy: 86.53, Training Time: 258.91s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 03:17:13,734 - __main__ - INFO - Epoch: 247, Train Accuracy: 84.94, Valid Accuracy: 86.70, Test Accuracy: 86.55, Training Time: 258.97s, Valid Time: 13.19s, Testing Time: 14.37s
+2025-08-17 03:22:00,240 - __main__ - INFO - Epoch: 248, Train Accuracy: 85.01, Valid Accuracy: 86.06, Test Accuracy: 86.02, Training Time: 258.99s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 03:26:46,596 - __main__ - INFO - Epoch: 249, Train Accuracy: 85.14, Valid Accuracy: 85.70, Test Accuracy: 86.10, Training Time: 258.85s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 03:31:33,331 - __main__ - INFO - Epoch: 250, Train Accuracy: 85.26, Valid Accuracy: 86.41, Test Accuracy: 86.34, Training Time: 259.20s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 03:36:20,051 - __main__ - INFO - Epoch: 251, Train Accuracy: 85.03, Valid Accuracy: 86.41, Test Accuracy: 86.88, Training Time: 259.18s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-17 03:41:06,941 - __main__ - INFO - Epoch: 252, Train Accuracy: 84.98, Valid Accuracy: 86.30, Test Accuracy: 86.30, Training Time: 259.33s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 03:45:53,703 - __main__ - INFO - Epoch: 253, Train Accuracy: 85.06, Valid Accuracy: 86.50, Test Accuracy: 86.69, Training Time: 259.20s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 03:50:40,215 - __main__ - INFO - Epoch: 254, Train Accuracy: 85.28, Valid Accuracy: 86.86, Test Accuracy: 86.41, Training Time: 258.99s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 03:55:26,844 - __main__ - INFO - Epoch: 255, Train Accuracy: 85.30, Valid Accuracy: 86.68, Test Accuracy: 86.65, Training Time: 259.08s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-17 04:00:13,518 - __main__ - INFO - Epoch: 256, Train Accuracy: 84.88, Valid Accuracy: 86.17, Test Accuracy: 86.65, Training Time: 259.09s, Valid Time: 13.24s, Testing Time: 14.34s
+2025-08-17 04:05:00,262 - __main__ - INFO - Epoch: 257, Train Accuracy: 85.28, Valid Accuracy: 86.99, Test Accuracy: 86.41, Training Time: 259.19s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 04:09:46,970 - __main__ - INFO - Epoch: 258, Train Accuracy: 84.78, Valid Accuracy: 86.24, Test Accuracy: 86.26, Training Time: 259.15s, Valid Time: 13.21s, Testing Time: 14.35s
+2025-08-17 04:14:33,731 - __main__ - INFO - Epoch: 259, Train Accuracy: 85.34, Valid Accuracy: 86.97, Test Accuracy: 86.65, Training Time: 259.22s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-17 04:19:20,437 - __main__ - INFO - Epoch: 260, Train Accuracy: 85.01, Valid Accuracy: 86.39, Test Accuracy: 85.52, Training Time: 259.17s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 04:24:07,067 - __main__ - INFO - Epoch: 261, Train Accuracy: 85.10, Valid Accuracy: 86.08, Test Accuracy: 86.28, Training Time: 259.10s, Valid Time: 13.20s, Testing Time: 14.33s
+2025-08-17 04:28:53,390 - __main__ - INFO - Epoch: 262, Train Accuracy: 85.04, Valid Accuracy: 86.28, Test Accuracy: 86.51, Training Time: 258.81s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 04:33:40,081 - __main__ - INFO - Epoch: 263, Train Accuracy: 85.12, Valid Accuracy: 86.24, Test Accuracy: 86.65, Training Time: 259.15s, Valid Time: 13.20s, Testing Time: 14.34s
+2025-08-17 04:38:26,676 - __main__ - INFO - Epoch: 264, Train Accuracy: 85.33, Valid Accuracy: 86.41, Test Accuracy: 86.53, Training Time: 259.09s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 04:43:13,076 - __main__ - INFO - Epoch: 265, Train Accuracy: 85.38, Valid Accuracy: 86.37, Test Accuracy: 86.78, Training Time: 258.89s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 04:47:59,294 - __main__ - INFO - Epoch: 266, Train Accuracy: 85.06, Valid Accuracy: 86.17, Test Accuracy: 86.57, Training Time: 258.69s, Valid Time: 13.18s, Testing Time: 14.35s
+2025-08-17 04:52:45,555 - __main__ - INFO - Epoch: 267, Train Accuracy: 84.97, Valid Accuracy: 86.33, Test Accuracy: 86.28, Training Time: 258.77s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 04:57:31,980 - __main__ - INFO - Epoch: 268, Train Accuracy: 84.91, Valid Accuracy: 85.84, Test Accuracy: 86.39, Training Time: 258.92s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 05:02:18,217 - __main__ - INFO - Epoch: 269, Train Accuracy: 84.52, Valid Accuracy: 85.68, Test Accuracy: 86.51, Training Time: 258.75s, Valid Time: 13.17s, Testing Time: 14.31s
+2025-08-17 05:07:04,357 - __main__ - INFO - Epoch: 270, Train Accuracy: 84.94, Valid Accuracy: 85.90, Test Accuracy: 86.02, Training Time: 258.64s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 05:11:50,654 - __main__ - INFO - Epoch: 271, Train Accuracy: 85.43, Valid Accuracy: 86.53, Test Accuracy: 86.61, Training Time: 258.80s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 05:16:37,193 - __main__ - INFO - Epoch: 272, Train Accuracy: 85.14, Valid Accuracy: 85.77, Test Accuracy: 86.74, Training Time: 259.02s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 05:21:23,716 - __main__ - INFO - Epoch: 273, Train Accuracy: 84.72, Valid Accuracy: 86.44, Test Accuracy: 85.95, Training Time: 259.01s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 05:26:09,689 - __main__ - INFO - Epoch: 274, Train Accuracy: 85.18, Valid Accuracy: 86.46, Test Accuracy: 86.57, Training Time: 258.50s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 05:30:55,917 - __main__ - INFO - Epoch: 275, Train Accuracy: 85.16, Valid Accuracy: 85.99, Test Accuracy: 86.63, Training Time: 258.71s, Valid Time: 13.21s, Testing Time: 14.31s
+2025-08-17 05:35:42,204 - __main__ - INFO - Epoch: 276, Train Accuracy: 85.16, Valid Accuracy: 86.55, Test Accuracy: 86.76, Training Time: 258.80s, Valid Time: 13.17s, Testing Time: 14.31s
+2025-08-17 05:40:28,232 - __main__ - INFO - Epoch: 277, Train Accuracy: 85.24, Valid Accuracy: 86.66, Test Accuracy: 86.76, Training Time: 258.56s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 05:45:14,296 - __main__ - INFO - Epoch: 278, Train Accuracy: 84.53, Valid Accuracy: 85.70, Test Accuracy: 85.56, Training Time: 258.59s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 05:50:00,858 - __main__ - INFO - Epoch: 279, Train Accuracy: 84.83, Valid Accuracy: 86.26, Test Accuracy: 86.43, Training Time: 259.05s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 05:54:47,192 - __main__ - INFO - Epoch: 280, Train Accuracy: 84.93, Valid Accuracy: 85.88, Test Accuracy: 86.69, Training Time: 258.84s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 05:59:33,565 - __main__ - INFO - Epoch: 281, Train Accuracy: 84.91, Valid Accuracy: 85.88, Test Accuracy: 86.96, Training Time: 258.88s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 06:04:19,912 - __main__ - INFO - Epoch: 282, Train Accuracy: 84.79, Valid Accuracy: 85.61, Test Accuracy: 86.80, Training Time: 258.84s, Valid Time: 13.19s, Testing Time: 14.31s
+2025-08-17 06:09:06,414 - __main__ - INFO - Epoch: 283, Train Accuracy: 84.84, Valid Accuracy: 85.81, Test Accuracy: 86.24, Training Time: 259.00s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 06:13:53,077 - __main__ - INFO - Epoch: 284, Train Accuracy: 85.04, Valid Accuracy: 85.92, Test Accuracy: 86.39, Training Time: 259.14s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 06:18:39,678 - __main__ - INFO - Epoch: 285, Train Accuracy: 85.11, Valid Accuracy: 85.81, Test Accuracy: 87.21, Training Time: 259.04s, Valid Time: 13.20s, Testing Time: 14.37s
+2025-08-17 06:23:26,071 - __main__ - INFO - Epoch: 286, Train Accuracy: 84.88, Valid Accuracy: 86.46, Test Accuracy: 86.78, Training Time: 258.88s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 06:28:12,645 - __main__ - INFO - Epoch: 287, Train Accuracy: 85.13, Valid Accuracy: 86.77, Test Accuracy: 86.45, Training Time: 259.06s, Valid Time: 13.18s, Testing Time: 14.33s
+2025-08-17 06:32:58,971 - __main__ - INFO - Epoch: 288, Train Accuracy: 85.42, Valid Accuracy: 86.66, Test Accuracy: 87.13, Training Time: 258.82s, Valid Time: 13.19s, Testing Time: 14.32s
+2025-08-17 06:37:45,197 - __main__ - INFO - Epoch: 289, Train Accuracy: 85.40, Valid Accuracy: 86.30, Test Accuracy: 86.63, Training Time: 258.72s, Valid Time: 13.19s, Testing Time: 14.31s
+2025-08-17 06:42:31,738 - __main__ - INFO - Epoch: 290, Train Accuracy: 85.43, Valid Accuracy: 86.30, Test Accuracy: 87.04, Training Time: 259.02s, Valid Time: 13.19s, Testing Time: 14.33s
+2025-08-17 06:47:18,168 - __main__ - INFO - Epoch: 291, Train Accuracy: 85.23, Valid Accuracy: 86.33, Test Accuracy: 86.39, Training Time: 258.93s, Valid Time: 13.18s, Testing Time: 14.32s
+2025-08-17 06:52:04,349 - __main__ - INFO - Epoch: 292, Train Accuracy: 84.71, Valid Accuracy: 85.57, Test Accuracy: 86.47, Training Time: 258.70s, Valid Time: 13.17s, Testing Time: 14.31s
+2025-08-17 06:56:50,506 - __main__ - INFO - Epoch: 293, Train Accuracy: 85.06, Valid Accuracy: 85.92, Test Accuracy: 86.43, Training Time: 258.68s, Valid Time: 13.17s, Testing Time: 14.31s
+2025-08-17 07:01:36,603 - __main__ - INFO - Epoch: 294, Train Accuracy: 84.84, Valid Accuracy: 86.50, Test Accuracy: 85.67, Training Time: 258.58s, Valid Time: 13.21s, Testing Time: 14.31s
+2025-08-17 07:06:22,744 - __main__ - INFO - Epoch: 295, Train Accuracy: 85.11, Valid Accuracy: 86.15, Test Accuracy: 86.10, Training Time: 258.64s, Valid Time: 13.19s, Testing Time: 14.31s
+2025-08-17 07:11:08,787 - __main__ - INFO - Epoch: 296, Train Accuracy: 85.29, Valid Accuracy: 86.41, Test Accuracy: 86.39, Training Time: 258.57s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 07:15:54,791 - __main__ - INFO - Epoch: 297, Train Accuracy: 85.30, Valid Accuracy: 86.46, Test Accuracy: 86.67, Training Time: 258.55s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 07:20:40,791 - __main__ - INFO - Epoch: 298, Train Accuracy: 85.55, Valid Accuracy: 86.10, Test Accuracy: 87.27, Training Time: 258.51s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 07:25:26,955 - __main__ - INFO - Epoch: 299, Train Accuracy: 85.48, Valid Accuracy: 86.17, Test Accuracy: 86.80, Training Time: 258.67s, Valid Time: 13.18s, Testing Time: 14.31s
+2025-08-17 07:30:13,066 - __main__ - INFO - Epoch: 300, Train Accuracy: 84.99, Valid Accuracy: 86.19, Test Accuracy: 86.78, Training Time: 258.62s, Valid Time: 13.18s, Testing Time: 14.30s
+2025-08-17 07:34:58,637 - __main__ - INFO - Epoch: 301, Train Accuracy: 85.25, Valid Accuracy: 86.50, Test Accuracy: 86.98, Training Time: 258.13s, Valid Time: 13.16s, Testing Time: 14.28s
+2025-08-17 07:39:44,520 - __main__ - INFO - Epoch: 302, Train Accuracy: 85.34, Valid Accuracy: 86.28, Test Accuracy: 87.02, Training Time: 258.44s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 07:44:30,313 - __main__ - INFO - Epoch: 303, Train Accuracy: 85.06, Valid Accuracy: 85.77, Test Accuracy: 85.95, Training Time: 258.34s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 07:49:16,030 - __main__ - INFO - Epoch: 304, Train Accuracy: 84.88, Valid Accuracy: 85.68, Test Accuracy: 86.51, Training Time: 258.22s, Valid Time: 13.16s, Testing Time: 14.33s
+2025-08-17 07:54:01,905 - __main__ - INFO - Epoch: 305, Train Accuracy: 84.60, Valid Accuracy: 85.50, Test Accuracy: 86.55, Training Time: 258.43s, Valid Time: 13.15s, Testing Time: 14.29s
+2025-08-17 07:58:47,809 - __main__ - INFO - Epoch: 306, Train Accuracy: 85.40, Valid Accuracy: 86.01, Test Accuracy: 87.15, Training Time: 258.45s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 08:03:33,740 - __main__ - INFO - Epoch: 307, Train Accuracy: 85.51, Valid Accuracy: 86.46, Test Accuracy: 86.94, Training Time: 258.47s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 08:08:19,677 - __main__ - INFO - Epoch: 308, Train Accuracy: 85.59, Valid Accuracy: 86.75, Test Accuracy: 87.29, Training Time: 258.48s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 08:13:05,582 - __main__ - INFO - Epoch: 309, Train Accuracy: 85.48, Valid Accuracy: 86.64, Test Accuracy: 87.06, Training Time: 258.45s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 08:17:51,536 - __main__ - INFO - Epoch: 310, Train Accuracy: 85.52, Valid Accuracy: 86.61, Test Accuracy: 87.13, Training Time: 258.48s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 08:22:37,206 - __main__ - INFO - Epoch: 311, Train Accuracy: 85.39, Valid Accuracy: 86.64, Test Accuracy: 86.76, Training Time: 258.23s, Valid Time: 13.16s, Testing Time: 14.28s
+2025-08-17 08:27:23,141 - __main__ - INFO - Epoch: 312, Train Accuracy: 85.56, Valid Accuracy: 86.73, Test Accuracy: 86.34, Training Time: 258.47s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 08:32:09,192 - __main__ - INFO - Epoch: 313, Train Accuracy: 85.15, Valid Accuracy: 86.33, Test Accuracy: 86.84, Training Time: 258.54s, Valid Time: 13.21s, Testing Time: 14.30s
+2025-08-17 08:36:55,185 - __main__ - INFO - Epoch: 314, Train Accuracy: 85.23, Valid Accuracy: 86.01, Test Accuracy: 86.98, Training Time: 258.54s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 08:41:41,158 - __main__ - INFO - Epoch: 315, Train Accuracy: 85.01, Valid Accuracy: 86.41, Test Accuracy: 86.55, Training Time: 258.51s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 08:46:27,148 - __main__ - INFO - Epoch: 316, Train Accuracy: 85.18, Valid Accuracy: 86.26, Test Accuracy: 86.49, Training Time: 258.52s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 08:51:12,736 - __main__ - INFO - Epoch: 317, Train Accuracy: 85.40, Valid Accuracy: 86.30, Test Accuracy: 86.94, Training Time: 258.15s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 08:55:58,389 - __main__ - INFO - Epoch: 318, Train Accuracy: 85.26, Valid Accuracy: 86.33, Test Accuracy: 87.02, Training Time: 258.22s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 09:00:44,047 - __main__ - INFO - Epoch: 319, Train Accuracy: 85.17, Valid Accuracy: 85.97, Test Accuracy: 86.71, Training Time: 258.22s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 09:05:29,521 - __main__ - INFO - Epoch: 320, Train Accuracy: 85.35, Valid Accuracy: 86.04, Test Accuracy: 86.92, Training Time: 258.05s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 09:10:15,215 - __main__ - INFO - Epoch: 321, Train Accuracy: 85.05, Valid Accuracy: 85.84, Test Accuracy: 86.26, Training Time: 258.27s, Valid Time: 13.14s, Testing Time: 14.28s
+2025-08-17 09:15:00,886 - __main__ - INFO - Epoch: 322, Train Accuracy: 85.05, Valid Accuracy: 85.88, Test Accuracy: 86.30, Training Time: 258.24s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 09:19:46,729 - __main__ - INFO - Epoch: 323, Train Accuracy: 85.02, Valid Accuracy: 85.75, Test Accuracy: 86.24, Training Time: 258.36s, Valid Time: 13.16s, Testing Time: 14.32s
+2025-08-17 09:24:32,497 - __main__ - INFO - Epoch: 324, Train Accuracy: 85.25, Valid Accuracy: 86.48, Test Accuracy: 86.67, Training Time: 258.32s, Valid Time: 13.15s, Testing Time: 14.29s
+2025-08-17 09:29:18,619 - __main__ - INFO - Epoch: 325, Train Accuracy: 84.74, Valid Accuracy: 85.97, Test Accuracy: 86.65, Training Time: 258.65s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 09:34:04,402 - __main__ - INFO - Epoch: 326, Train Accuracy: 85.18, Valid Accuracy: 86.90, Test Accuracy: 87.19, Training Time: 258.33s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 09:38:50,248 - __main__ - INFO - Epoch: 327, Train Accuracy: 85.12, Valid Accuracy: 86.79, Test Accuracy: 86.84, Training Time: 258.41s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 09:43:36,111 - __main__ - INFO - Epoch: 328, Train Accuracy: 85.50, Valid Accuracy: 86.61, Test Accuracy: 86.76, Training Time: 258.41s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 09:48:22,193 - __main__ - INFO - Epoch: 329, Train Accuracy: 85.57, Valid Accuracy: 86.28, Test Accuracy: 86.88, Training Time: 258.62s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 09:53:08,315 - __main__ - INFO - Epoch: 330, Train Accuracy: 84.93, Valid Accuracy: 86.19, Test Accuracy: 86.26, Training Time: 258.65s, Valid Time: 13.16s, Testing Time: 14.31s
+2025-08-17 09:57:54,436 - __main__ - INFO - Epoch: 331, Train Accuracy: 85.64, Valid Accuracy: 86.46, Test Accuracy: 86.84, Training Time: 258.63s, Valid Time: 13.18s, Testing Time: 14.30s
+2025-08-17 10:02:40,539 - __main__ - INFO - Epoch: 332, Train Accuracy: 85.34, Valid Accuracy: 86.30, Test Accuracy: 86.63, Training Time: 258.58s, Valid Time: 13.22s, Testing Time: 14.30s
+2025-08-17 10:07:26,586 - __main__ - INFO - Epoch: 333, Train Accuracy: 85.63, Valid Accuracy: 86.57, Test Accuracy: 86.76, Training Time: 258.58s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 10:12:12,396 - __main__ - INFO - Epoch: 334, Train Accuracy: 85.58, Valid Accuracy: 86.93, Test Accuracy: 87.21, Training Time: 258.37s, Valid Time: 13.16s, Testing Time: 14.28s
+2025-08-17 10:16:58,346 - __main__ - INFO - Epoch: 335, Train Accuracy: 85.33, Valid Accuracy: 87.33, Test Accuracy: 87.35, Training Time: 258.48s, Valid Time: 13.16s, Testing Time: 14.30s
+2025-08-17 10:22:38,705 - __main__ - INFO - Epoch: 336, Train Accuracy: 85.35, Valid Accuracy: 86.93, Test Accuracy: 86.76, Training Time: 258.40s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 10:27:23,939 - __main__ - INFO - Epoch: 337, Train Accuracy: 85.16, Valid Accuracy: 85.79, Test Accuracy: 86.43, Training Time: 257.83s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 10:32:09,614 - __main__ - INFO - Epoch: 338, Train Accuracy: 85.25, Valid Accuracy: 85.90, Test Accuracy: 86.34, Training Time: 258.25s, Valid Time: 13.14s, Testing Time: 14.28s
+2025-08-17 10:36:55,337 - __main__ - INFO - Epoch: 339, Train Accuracy: 85.56, Valid Accuracy: 85.95, Test Accuracy: 86.47, Training Time: 258.27s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 10:41:41,063 - __main__ - INFO - Epoch: 340, Train Accuracy: 85.30, Valid Accuracy: 86.50, Test Accuracy: 86.74, Training Time: 258.27s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 10:46:26,865 - __main__ - INFO - Epoch: 341, Train Accuracy: 85.61, Valid Accuracy: 87.17, Test Accuracy: 86.94, Training Time: 258.36s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 10:51:12,890 - __main__ - INFO - Epoch: 342, Train Accuracy: 85.52, Valid Accuracy: 86.93, Test Accuracy: 86.86, Training Time: 258.56s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 10:55:59,124 - __main__ - INFO - Epoch: 343, Train Accuracy: 85.19, Valid Accuracy: 86.30, Test Accuracy: 86.22, Training Time: 258.72s, Valid Time: 13.17s, Testing Time: 14.34s
+2025-08-17 11:00:45,092 - __main__ - INFO - Epoch: 344, Train Accuracy: 85.24, Valid Accuracy: 86.53, Test Accuracy: 86.37, Training Time: 258.51s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 11:05:30,919 - __main__ - INFO - Epoch: 345, Train Accuracy: 84.81, Valid Accuracy: 86.17, Test Accuracy: 86.00, Training Time: 258.38s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 11:10:16,677 - __main__ - INFO - Epoch: 346, Train Accuracy: 84.95, Valid Accuracy: 86.93, Test Accuracy: 86.49, Training Time: 258.33s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 11:15:02,435 - __main__ - INFO - Epoch: 347, Train Accuracy: 85.19, Valid Accuracy: 86.48, Test Accuracy: 86.02, Training Time: 258.34s, Valid Time: 13.14s, Testing Time: 14.28s
+2025-08-17 11:19:47,936 - __main__ - INFO - Epoch: 348, Train Accuracy: 85.37, Valid Accuracy: 86.88, Test Accuracy: 86.63, Training Time: 258.08s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 11:24:33,562 - __main__ - INFO - Epoch: 349, Train Accuracy: 85.58, Valid Accuracy: 85.97, Test Accuracy: 87.08, Training Time: 258.19s, Valid Time: 13.16s, Testing Time: 14.28s
+2025-08-17 11:29:19,129 - __main__ - INFO - Epoch: 350, Train Accuracy: 85.54, Valid Accuracy: 86.79, Test Accuracy: 86.88, Training Time: 258.14s, Valid Time: 13.14s, Testing Time: 14.28s
+2025-08-17 11:34:04,657 - __main__ - INFO - Epoch: 351, Train Accuracy: 85.20, Valid Accuracy: 86.68, Test Accuracy: 86.55, Training Time: 258.10s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 11:38:50,086 - __main__ - INFO - Epoch: 352, Train Accuracy: 85.15, Valid Accuracy: 85.84, Test Accuracy: 86.39, Training Time: 257.98s, Valid Time: 13.18s, Testing Time: 14.27s
+2025-08-17 11:43:35,558 - __main__ - INFO - Epoch: 353, Train Accuracy: 85.19, Valid Accuracy: 86.70, Test Accuracy: 86.20, Training Time: 258.06s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 11:48:20,811 - __main__ - INFO - Epoch: 354, Train Accuracy: 85.23, Valid Accuracy: 86.08, Test Accuracy: 86.16, Training Time: 257.85s, Valid Time: 13.14s, Testing Time: 14.26s
+2025-08-17 11:53:06,294 - __main__ - INFO - Epoch: 355, Train Accuracy: 85.38, Valid Accuracy: 86.10, Test Accuracy: 86.16, Training Time: 258.08s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 11:57:52,128 - __main__ - INFO - Epoch: 356, Train Accuracy: 85.53, Valid Accuracy: 85.88, Test Accuracy: 86.84, Training Time: 258.40s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 12:02:37,632 - __main__ - INFO - Epoch: 357, Train Accuracy: 85.27, Valid Accuracy: 86.44, Test Accuracy: 86.51, Training Time: 258.09s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 12:07:23,411 - __main__ - INFO - Epoch: 358, Train Accuracy: 85.29, Valid Accuracy: 86.04, Test Accuracy: 86.34, Training Time: 258.34s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 12:12:09,088 - __main__ - INFO - Epoch: 359, Train Accuracy: 85.10, Valid Accuracy: 86.06, Test Accuracy: 86.74, Training Time: 258.27s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 12:16:54,485 - __main__ - INFO - Epoch: 360, Train Accuracy: 85.31, Valid Accuracy: 86.21, Test Accuracy: 86.49, Training Time: 258.01s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 12:21:39,931 - __main__ - INFO - Epoch: 361, Train Accuracy: 85.18, Valid Accuracy: 85.97, Test Accuracy: 86.24, Training Time: 258.04s, Valid Time: 13.14s, Testing Time: 14.26s
+2025-08-17 12:26:25,699 - __main__ - INFO - Epoch: 362, Train Accuracy: 84.99, Valid Accuracy: 85.63, Test Accuracy: 86.24, Training Time: 258.30s, Valid Time: 13.15s, Testing Time: 14.31s
+2025-08-17 12:31:11,341 - __main__ - INFO - Epoch: 363, Train Accuracy: 85.23, Valid Accuracy: 85.75, Test Accuracy: 86.34, Training Time: 258.20s, Valid Time: 13.15s, Testing Time: 14.29s
+2025-08-17 12:35:56,956 - __main__ - INFO - Epoch: 364, Train Accuracy: 85.39, Valid Accuracy: 86.08, Test Accuracy: 86.92, Training Time: 258.19s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 12:40:42,787 - __main__ - INFO - Epoch: 365, Train Accuracy: 85.15, Valid Accuracy: 86.79, Test Accuracy: 86.37, Training Time: 258.38s, Valid Time: 13.15s, Testing Time: 14.29s
+2025-08-17 12:45:28,135 - __main__ - INFO - Epoch: 366, Train Accuracy: 85.30, Valid Accuracy: 86.28, Test Accuracy: 86.59, Training Time: 257.94s, Valid Time: 13.14s, Testing Time: 14.26s
+2025-08-17 12:50:13,407 - __main__ - INFO - Epoch: 367, Train Accuracy: 85.47, Valid Accuracy: 86.82, Test Accuracy: 86.34, Training Time: 257.87s, Valid Time: 13.14s, Testing Time: 14.26s
+2025-08-17 12:54:59,039 - __main__ - INFO - Epoch: 368, Train Accuracy: 85.62, Valid Accuracy: 86.68, Test Accuracy: 86.10, Training Time: 258.22s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 12:59:44,568 - __main__ - INFO - Epoch: 369, Train Accuracy: 84.87, Valid Accuracy: 85.66, Test Accuracy: 85.89, Training Time: 258.12s, Valid Time: 13.14s, Testing Time: 14.26s
+2025-08-17 13:04:29,797 - __main__ - INFO - Epoch: 370, Train Accuracy: 85.19, Valid Accuracy: 86.66, Test Accuracy: 86.12, Training Time: 257.83s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 13:09:15,339 - __main__ - INFO - Epoch: 371, Train Accuracy: 85.40, Valid Accuracy: 86.39, Test Accuracy: 86.86, Training Time: 258.09s, Valid Time: 13.18s, Testing Time: 14.28s
+2025-08-17 13:14:00,836 - __main__ - INFO - Epoch: 372, Train Accuracy: 85.68, Valid Accuracy: 86.37, Test Accuracy: 86.98, Training Time: 258.08s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 13:18:46,411 - __main__ - INFO - Epoch: 373, Train Accuracy: 85.58, Valid Accuracy: 86.57, Test Accuracy: 86.61, Training Time: 258.16s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 13:23:31,941 - __main__ - INFO - Epoch: 374, Train Accuracy: 85.41, Valid Accuracy: 86.90, Test Accuracy: 86.82, Training Time: 258.12s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 13:28:17,166 - __main__ - INFO - Epoch: 375, Train Accuracy: 85.12, Valid Accuracy: 86.75, Test Accuracy: 87.04, Training Time: 257.84s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 13:33:02,526 - __main__ - INFO - Epoch: 376, Train Accuracy: 85.30, Valid Accuracy: 86.75, Test Accuracy: 86.32, Training Time: 257.97s, Valid Time: 13.13s, Testing Time: 14.25s
+2025-08-17 13:37:48,262 - __main__ - INFO - Epoch: 377, Train Accuracy: 85.46, Valid Accuracy: 86.57, Test Accuracy: 86.61, Training Time: 258.32s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 13:42:33,923 - __main__ - INFO - Epoch: 378, Train Accuracy: 85.41, Valid Accuracy: 86.53, Test Accuracy: 86.20, Training Time: 258.25s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 13:47:19,544 - __main__ - INFO - Epoch: 379, Train Accuracy: 85.17, Valid Accuracy: 86.19, Test Accuracy: 86.41, Training Time: 258.20s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 13:52:05,247 - __main__ - INFO - Epoch: 380, Train Accuracy: 85.13, Valid Accuracy: 86.06, Test Accuracy: 86.43, Training Time: 258.29s, Valid Time: 13.13s, Testing Time: 14.27s
+2025-08-17 13:56:51,079 - __main__ - INFO - Epoch: 381, Train Accuracy: 85.07, Valid Accuracy: 86.15, Test Accuracy: 86.67, Training Time: 258.35s, Valid Time: 13.16s, Testing Time: 14.32s
+2025-08-17 14:01:36,572 - __main__ - INFO - Epoch: 382, Train Accuracy: 84.98, Valid Accuracy: 86.28, Test Accuracy: 86.30, Training Time: 258.07s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 14:06:22,263 - __main__ - INFO - Epoch: 383, Train Accuracy: 85.12, Valid Accuracy: 85.92, Test Accuracy: 86.63, Training Time: 258.26s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 14:11:07,885 - __main__ - INFO - Epoch: 384, Train Accuracy: 85.03, Valid Accuracy: 86.21, Test Accuracy: 86.57, Training Time: 258.19s, Valid Time: 13.16s, Testing Time: 14.28s
+2025-08-17 14:15:53,033 - __main__ - INFO - Epoch: 385, Train Accuracy: 84.65, Valid Accuracy: 86.30, Test Accuracy: 86.30, Training Time: 257.76s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 14:20:38,394 - __main__ - INFO - Epoch: 386, Train Accuracy: 84.91, Valid Accuracy: 86.06, Test Accuracy: 86.92, Training Time: 257.96s, Valid Time: 13.13s, Testing Time: 14.27s
+2025-08-17 14:25:23,769 - __main__ - INFO - Epoch: 387, Train Accuracy: 84.93, Valid Accuracy: 86.59, Test Accuracy: 87.08, Training Time: 257.98s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 14:30:09,438 - __main__ - INFO - Epoch: 388, Train Accuracy: 85.11, Valid Accuracy: 86.59, Test Accuracy: 86.43, Training Time: 258.24s, Valid Time: 13.15s, Testing Time: 14.27s
+2025-08-17 14:34:54,756 - __main__ - INFO - Epoch: 389, Train Accuracy: 85.29, Valid Accuracy: 86.39, Test Accuracy: 86.59, Training Time: 257.93s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 14:39:39,774 - __main__ - INFO - Epoch: 390, Train Accuracy: 85.44, Valid Accuracy: 87.04, Test Accuracy: 86.49, Training Time: 257.64s, Valid Time: 13.14s, Testing Time: 14.23s
+2025-08-17 14:44:24,945 - __main__ - INFO - Epoch: 391, Train Accuracy: 85.38, Valid Accuracy: 86.66, Test Accuracy: 87.02, Training Time: 257.79s, Valid Time: 13.13s, Testing Time: 14.25s
+2025-08-17 14:49:10,256 - __main__ - INFO - Epoch: 392, Train Accuracy: 85.46, Valid Accuracy: 86.73, Test Accuracy: 87.06, Training Time: 257.92s, Valid Time: 13.13s, Testing Time: 14.26s
+2025-08-17 14:53:55,838 - __main__ - INFO - Epoch: 393, Train Accuracy: 84.87, Valid Accuracy: 86.73, Test Accuracy: 86.69, Training Time: 258.16s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 14:58:41,695 - __main__ - INFO - Epoch: 394, Train Accuracy: 85.07, Valid Accuracy: 86.57, Test Accuracy: 86.76, Training Time: 258.42s, Valid Time: 13.16s, Testing Time: 14.28s
+2025-08-17 15:03:27,763 - __main__ - INFO - Epoch: 395, Train Accuracy: 85.33, Valid Accuracy: 86.88, Test Accuracy: 87.37, Training Time: 258.62s, Valid Time: 13.15s, Testing Time: 14.29s
+2025-08-17 15:08:14,034 - __main__ - INFO - Epoch: 396, Train Accuracy: 85.43, Valid Accuracy: 86.64, Test Accuracy: 86.98, Training Time: 258.80s, Valid Time: 13.17s, Testing Time: 14.30s
+2025-08-17 15:13:00,046 - __main__ - INFO - Epoch: 397, Train Accuracy: 85.14, Valid Accuracy: 86.35, Test Accuracy: 86.74, Training Time: 258.56s, Valid Time: 13.16s, Testing Time: 14.29s
+2025-08-17 15:17:46,011 - __main__ - INFO - Epoch: 398, Train Accuracy: 84.87, Valid Accuracy: 86.26, Test Accuracy: 86.24, Training Time: 258.53s, Valid Time: 13.15s, Testing Time: 14.28s
+2025-08-17 15:22:31,551 - __main__ - INFO - Epoch: 399, Train Accuracy: 85.23, Valid Accuracy: 87.06, Test Accuracy: 86.82, Training Time: 258.13s, Valid Time: 13.14s, Testing Time: 14.27s
+2025-08-17 15:27:17,238 - __main__ - INFO - Epoch: 400, Train Accuracy: 85.20, Valid Accuracy: 86.77, Test Accuracy: 87.17, Training Time: 258.22s, Valid Time: 13.15s, Testing Time: 14.31s
+
+The best result is found in epoch 335: valid accuracy is 87.33%.
+
+Epoch: 335, Train Accuracy: 85.33, Valid Accuracy: 87.33, Test Accuracy: 87.35
+original_sparse_rate: 0.9890
+y_label: [ 7  0  2  0 11  4  4  5  5  0  5  8 10  7  8  9  2  4  6  2]
+y_pred: [ 7  0  2  0 11  4  4  5  5  0  5  8 10  7  8  9  2  0  6  2]
+(array([7]), array([[-1629, -1379,    13, -1074, -1075, -1396,  -880,  1466,  -407,
+        -1137, -2458,  -841]], dtype=int32))
+(array([0]), array([[ 2006,  -964, -1603, -1423,  -412, -1177, -1647, -1042, -1526,
+        -1396, -2844,  -762]], dtype=int32))
+(array([2]), array([[-1257,  -177,   915,  -852,  -873, -2257,  -726,    80,  -773,
+         -631, -3136,  -588]], dtype=int32))
+[[399   2   1   0   6   0   0   2   0   1   1   7]
+ [  2 357   3  16   4   3   1   1   0  15   0   3]
+ [  0   0 363   0   2   0   3  26   6  10   1  14]
+ [  0  27   3 339   3   0   4   1   0  20   2   7]
+ [  8   3   2   0 378   3   0   4   0   1   0  13]
+ [  1   4   0   1  14 355   3   1   1   4   2  10]
+ [  0   0   7   2   0   1 359  13   0   5   1   8]
+ [  0   1  23   1   4   0   8 352   3   7   0   3]
+ [  0   1   9   3   3   1   1   4 387   1   0   1]
+ [  0  29   9  23   4   1   6   4   0 313   1  12]
+ [  0   0   0   0   0   0   0   0   0   0 408   0]
+ [  2  18   8  15  13  18  26   6  13  22   3 244]]
+              precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96       419
+           1       0.81      0.88      0.84       405
+           2       0.85      0.85      0.85       425
+           3       0.85      0.83      0.84       406
+           4       0.88      0.92      0.90       412
+           5       0.93      0.90      0.91       396
+           6       0.87      0.91      0.89       396
+           7       0.85      0.88      0.86       402
+           8       0.94      0.94      0.94       411
+           9       0.78      0.78      0.78       402
+          10       0.97      1.00      0.99       408
+          11       0.76      0.63      0.69       388
+
+    accuracy                           0.87      4870
+   macro avg       0.87      0.87      0.87      4870
+weighted avg       0.87      0.87      0.87      4870
